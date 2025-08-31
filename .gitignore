@@ -1,0 +1,53 @@
+# Node
+node_modules/
+build/
+dist/
+.env
+.env.*
+frontend/.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+openai_cost_log.json
+<<<<<<< HEAD
+=======
+chromadb_data/
+backend/chromadb_data/
+>>>>>>> 862d9ce (Update README.md)
+backend/.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Frontend
+frontend/.next/
+frontend/.cache/
+frontend/.env
+
+# Backend
+backend/.env
+backend/.cache/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.coverage
+backend/.vscode/
