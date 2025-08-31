@@ -27,7 +27,7 @@ A chatbot AI that recommends books based on user interests, using OpenAI GPT + R
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/Florina-Eugenia-Hategan/LibrarianAI-RAG-Multimodal-System.git
+git clone https://github.com/Florina-Eugenia-Hategan/LibrarianAI-RAG-Multimodal-System2.git
 cd Project_RAG
 ```
 
